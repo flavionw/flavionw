@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou o Flavio ! 👋
 
-<!--
-**flavionw/flavionw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de *Sistemas de Informação* focado em desenvolvimento de software e soluções eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🎓 Cursando Sistemas de Informação.
+- 💻 Foco atual: *Java* e *Desenvolvimento Web*.
+- 🛠️ Experiência com modelagem de bancos de dados relacionais (MySQL).
+
+---
+
+### 🛠️ Minha Pilha de Tecnologias
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flavionw&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavionw&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
+
+---
+
+### 📫 Entre em contato comigo:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-oliveira-54a47b95)
+
+
+
+---
+
+### 📂 Principais Projetos
+* *Sucme:* Sistema de Cadastro de Militantes Engajados.
